@@ -1,0 +1,21 @@
+
+body{
+	background-image: url('walpaper.jpg');
+}
+
+
+marquee{
+	color: navy;
+}
+
+button{
+	background-color: lightblue;
+	border-color: lightblue;
+	margin: 0.5cm;
+}
+
+.welcome{
+	color: navy;
+}
+
+
